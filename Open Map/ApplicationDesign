@@ -1,0 +1,8 @@
+The application mainframe will displayed in two parts the left part,
+will have the search bar. If they click search the map will zoom to the current point or 
+if they click it will show text explaining driving instructions. 
+Then the right side will have the actual map. In the map on the top left there will 
+be a slider that will determine zoom level. Then when a user just clicks on a point 
+the node selected will be highlighted and the address will be put into the search bar
+and the user can then click driving instructions to get driving directions. 
+In addition to pan the user can just click and drag.
